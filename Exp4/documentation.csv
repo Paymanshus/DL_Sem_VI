@@ -1,0 +1,4 @@
+File,Actual,Predicted
+cat.jpg,0,1
+cat2.jpg,0,0
+Dog.jpg,1,1
